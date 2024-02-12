@@ -1,0 +1,33 @@
+0 1 1.2 Grand_Palace is a complex of buildings at the heart of Bangkok, Thailand The palace has been the official residence of the Kings of Siam since 1782.
+0 2 18 Wake_boarding is a surface water sport which involves riding a wakeboard over the surface of a body of water.
+0 1 25.0 Wat_Phra_Kaew commonly known in English as the Temple of the Emerald Buddha and officially as Wat Phra Si Rattana Satsadaram, is regarded as the most sacred Buddhist temple in Thailand.
+0 5 Lumphini_Park is a 360 rai park in Bangkok, Thailand. The park offers rare open public space, trees, and playgrounds in the Thai capital and contains an artificial lake where visitors can rent boats
+0 3 MBK_Center3 is a large shopping mall in Bangkok, Thailand. At eight stories high the center contains around 2,000 shops, restaurants and service outlets including the 4-story Tokyu department store
+1 1 50.0 The_Forbidden_City is a palace complex in central Beijing, China, The former seat of Imperial Chinese Dragon Throne \nfrom the Ming dynasty to the end of the Qing.	
+1 4 Great_Wall_of_China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials.
+1 5 The_Summer_Palace is a vast ensemble of lakes, gardens and palaces in Beijing, China. It was an imperial garden in Qing Dynasty.
+1 4 The_Tiananmen is a monument in Beijing, China. It is widely used as a national symbol of China First built during the Ming dynasty in 1420, Tiananmen was the entrance to the Imperial City within which the Forbidden City was located
+1 5 West_Lake is a freshwater lake in Hangzhou, China. It is divided into five sections by three causeway. There are numerous temples, pagodas, gardens, and artificial islands within the lake.
+2 4 Pyramid_of_Djoser is an archeological remain in the Saqqara necropolis, Egypt, northwest of the city of Memphis.
+2 1 6.0 Manial_Palace is a former Ottoman dynasty era palace and grounds on Rhoda Island on the Nile. It is located in the Sharia Al-Saray area in the El-Manial district of southern Cairo, Egypt
+2 5 The_Nile_River The mighty Nile has been providing Egypt with water for millennia. Deserving of its reputation as the world's largest open-air museum, the Nile River Valley contains thousands of monuments at sites such as Luxur and Aswan.
+3 3 The_Dubai_Mall is a shopping mall in Dubai and the largest mall in the world by total area. It is the 21st largest shopping mall in the world by gross leasable area.
+3 2 18 Ski_Dubai is an indoor ski resort with 22,500 square meters of indoor ski area. It is a part of the Mall of the Emirates, one of the largest shopping malls in the world, located in Dubai, United Arab Emirates.
+3 1 15.0 Burj_Khalifa known as the Burj Dubai before its inauguration, is a megatall skyscraper in Dubai, United Arab Emirates.
+4 1 3.0 The_Brooklyn_Bridge is a hybrid cable-stayed/suspension bridge in New York City and is one of the oldest roadway bridges in the United States
+4 3 Rockefeller_Center Rockefeller Center is a large complex consisting of 19 commercial buildings covering 22 acres between 48th and 51st Streets in New York City.
+4 1 500.0 Statue_of_Liberty The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City, in the United States.
+4 2 18 Yankee_Stadium is a stadium located in the Concourse section in the New York City of the Bronx. It serves as the home ballpark for the New York Yankees of Major League Baseball, and is also the home park for New York City FC of Major League Soccer
+4 5 Central_Park is an urban park in Manhattan, New York City, U.S. state of New York, It comprises 843 acres between the Upper West Side and Upper East Side, roughly bounded by Fifth Avenue on the east
+5 1 12.0 Colosseum is an oval amphitheatre in the centre of the city of Rome, Italy. Built of travertine, tuff, and brick-faced concrete, it is the largest amphitheatre ever built.
+5 5 Villa_Este is a 16th-century villa in Tivoli, near Rome, famous for its terraced hillside Italian Renaissance garden and especially for its profusion of fountains.
+5 1 25.0 The_Roman_Forum also known by its Latin name Forum Romanum, is a rectangular forum surrounded by the ruins of several important ancient government buildings at the center of the city of Rome.
+5 1 500.0 Trajan_Market is a large complex of ruins in the city of Rome, Italy,located on the Via dei Fori Imperiali, at the opposite end to the Colosseum, The surviving buildings and structures.
+6 1 7.0 Sydney_Opera_House is a multi-venue performing arts centre in Sydney, New South Wales, Australia, It is one of the 20th century's most famous and distinctive buildings
+6 5 Taragon_Zoo is the city zoo of Sydney, New South Wales, Australia and is located on the shores of Sydney Harbour in the suburb of Mosman It was officially opened on 7 October 1916
+6 5 Hyde_Park the oldest public parkland in Australia, is a 16.2-hectare park in the central business district of Sydney, New South Wales. 
+6 2 18 Sydney_Olympic_Park is a large sports and entertainment complex in the West of Sydney, It is also an official suburb of Sydney, commonly known as Olympic Park but officially named Sydney Olympic Park
+7 1 2.0 Batu_Caves is a limestone hill that has a series of caves and cave temples in Gombak, Selangor, Malaysia, It takes its name from the Sungai Batu, which flows past the hill. It is the tenth limestone hill from Ampang
+7 5 Kuala_Lumpur_Bird_Park is a 20.9-acre public aviary in Kuala Lumpur, Malaysia, It is a popular tourist attraction in the country, receiving an annual average of 200,000 visitors, It is located adjacent to the Lake Gardens.
+7 3 Central_Market Cultural heritage site with restored art deco facade offering shopping, eateries & an outdoor stage.
+7 3 Kuala_Lumpur_City_Centre Kuala Lumpur’s dynamic, high-rise City Centre is known for upscale fashion malls, luxury hotels and expansive views from the futuristic Petronas Twin Towers.

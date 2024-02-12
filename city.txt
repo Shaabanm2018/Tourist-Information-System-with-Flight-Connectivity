@@ -1,0 +1,8 @@
+0 Bangkok
+1 Beijing
+2 Cairo
+3 Dubai
+4 Newyourk
+5 Rome
+6 Sidney
+7 kuala Lumpor
