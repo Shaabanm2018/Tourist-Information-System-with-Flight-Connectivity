@@ -31,6 +31,12 @@ The data the administrator can manage includes city information, attraction deta
 ## Initial Screen
 ![initialscreen](https://github.com/Shaabanm2018/Tourist-Information-System-with-Flight-Connectivity/assets/76607364/27738deb-9a54-4e99-a4c5-4b4b52f976eb)
 
+# How to Run
+Instructions for how to compile your code from the command line without using any IDE
+javac Main2.java
+java Main2
+
+
 ## cities Display
 ![citydisplay](https://github.com/Shaabanm2018/Tourist-Information-System-with-Flight-Connectivity/assets/76607364/2cb4c18e-1b8e-4047-8436-f5142bf4727a)
 
